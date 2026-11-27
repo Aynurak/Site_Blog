@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin
+Disallow: /yonetim
+Sitemap: https://akbuluthukukburosu.com/sitemap.xml

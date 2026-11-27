@@ -1,0 +1,7 @@
+/calisma-alanlari/js/*   /js/:splat   200
+/calisma-alanlari/css/*  /css/:splat  200
+/calisma-alanlari/img/*  /img/:splat  200
+/blog/js/*   /js/:splat   200
+/blog/css/*  /css/:splat  200
+/blog/img/*  /img/:splat  200
+/*    /index.html   200
